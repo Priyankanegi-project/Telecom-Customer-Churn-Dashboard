@@ -2,7 +2,7 @@
 Telecom Customer Churn Dashboard using Python, Sql,  Power BI
 
 ##Tools used
--python
+-python(Numpy,Panda,Matplotlib,Seaborn)
 -SQl
 -Power BI
 
